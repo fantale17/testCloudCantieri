@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Lib.Intervento>
+
+@{
+    ViewData["Title"] = "ListInterventi";
+}
+
+<h2>ListInterventi</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IdCantiere)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Tipo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Note)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.StimaCosto)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UriPhoto)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCantiere)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Note)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StimaCosto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UriPhoto)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "DetailsIntervento", new { interventoId = item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

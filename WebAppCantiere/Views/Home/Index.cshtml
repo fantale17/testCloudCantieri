@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Lib.Cantiere>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="CreateCantiere">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.NomeCliente)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EmailCliente)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Luogo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Luogo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "GetCantiereDetails", item)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

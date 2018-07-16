@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\bin\Debug\netcoreapp2.0\CloudElettricisti.deps.json
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\bin\Debug\netcoreapp2.0\CloudElettricisti.runtimeconfig.json
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\bin\Debug\netcoreapp2.0\CloudElettricisti.runtimeconfig.dev.json
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\bin\Debug\netcoreapp2.0\CloudElettricisti.dll
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\bin\Debug\netcoreapp2.0\Lib.dll
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\bin\Debug\netcoreapp2.0\Lib.pdb
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\obj\Debug\netcoreapp2.0\CloudElettricisti.csprojAssemblyReference.cache
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\obj\Debug\netcoreapp2.0\CloudElettricisti.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\obj\Debug\netcoreapp2.0\CloudElettricisti.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\obj\Debug\netcoreapp2.0\CloudElettricisti.AssemblyInfo.cs
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\obj\Debug\netcoreapp2.0\CloudElettricisti.csproj.CopyComplete
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\bin\Debug\netcoreapp2.0\CloudElettricisti.pdb
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\obj\Debug\netcoreapp2.0\CloudElettricisti.dll
+C:\Users\Utente\source\repos\CloudPreventivo\CloudElettricisti\obj\Debug\netcoreapp2.0\CloudElettricisti.pdb

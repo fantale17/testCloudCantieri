@@ -1,0 +1,15 @@
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\EmailWorker.deps.json
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\EmailWorker.runtimeconfig.json
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\EmailWorker.runtimeconfig.dev.json
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\EmailWorker.dll
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\EmailWorker.pdb
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\Lib.dll
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\Lib.pdb
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\obj\Debug\netcoreapp2.0\EmailWorker.csprojAssemblyReference.cache
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\obj\Debug\netcoreapp2.0\EmailWorker.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\obj\Debug\netcoreapp2.0\EmailWorker.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\obj\Debug\netcoreapp2.0\EmailWorker.AssemblyInfo.cs
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\obj\Debug\netcoreapp2.0\EmailWorker.csproj.CopyComplete
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\obj\Debug\netcoreapp2.0\EmailWorker.dll
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\obj\Debug\netcoreapp2.0\EmailWorker.pdb

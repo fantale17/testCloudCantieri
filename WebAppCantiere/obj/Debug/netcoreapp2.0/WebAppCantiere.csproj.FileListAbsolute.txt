@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\bin\Debug\netcoreapp2.0\WebAppCantiere.deps.json
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\bin\Debug\netcoreapp2.0\WebAppCantiere.runtimeconfig.json
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\bin\Debug\netcoreapp2.0\WebAppCantiere.runtimeconfig.dev.json
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\bin\Debug\netcoreapp2.0\WebAppCantiere.dll
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\bin\Debug\netcoreapp2.0\WebAppCantiere.pdb
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\obj\Debug\netcoreapp2.0\WebAppCantiere.csprojAssemblyReference.cache
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\obj\Debug\netcoreapp2.0\WebAppCantiere.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\obj\Debug\netcoreapp2.0\WebAppCantiere.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\obj\Debug\netcoreapp2.0\WebAppCantiere.AssemblyInfo.cs
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\obj\Debug\netcoreapp2.0\WebAppCantiere.dll
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\obj\Debug\netcoreapp2.0\WebAppCantiere.pdb
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\bin\Debug\netcoreapp2.0\Lib.dll
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\bin\Debug\netcoreapp2.0\Lib.pdb
+C:\Users\Utente\source\repos\CloudPreventivo\WebAppCantiere\obj\Debug\netcoreapp2.0\WebAppCantiere.csproj.CopyComplete

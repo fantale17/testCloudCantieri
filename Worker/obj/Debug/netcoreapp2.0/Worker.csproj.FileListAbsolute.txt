@@ -1,0 +1,9 @@
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\Worker.deps.json
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.json
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.dev.json
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\bin\Debug\netcoreapp2.0\Worker.dll
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\obj\Debug\netcoreapp2.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfo.cs
+C:\Users\Utente\source\repos\CloudPreventivo\Worker\obj\Debug\netcoreapp2.0\Worker.csprojAssemblyReference.cache

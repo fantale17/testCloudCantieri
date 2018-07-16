@@ -1,0 +1,47 @@
+﻿@model CantiereViewModel
+
+@{
+    ViewData["Title"] = "CreateCantiere";
+}
+
+<h2>CreateCantiere</h2>
+
+<h4>Cantiere</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateCantiere" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NomeCliente" class="control-label"></label>
+                <input asp-for="NomeCliente" class="form-control" />
+                <span asp-validation-for="NomeCliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmailCliente" class="control-label"></label>
+                <input asp-for="EmailCliente" class="form-control" />
+                <span asp-validation-for="EmailCliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Luogo" class="control-label"></label>
+                <input asp-for="Luogo" class="form-control" />
+                <span asp-validation-for="Luogo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Photos"></label>
+                <input asp-for="Photos" type="file" value="Upload" accept="image/png, image/jpeg" class="form-control-file" multiple/>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
